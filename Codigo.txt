@@ -1,7 +1,8 @@
-Version 1.2
+Version 2
 Codigo version 0. Modifico parte de la version 0
 Codigo añadido a version 1
 Version 1.1
 Solucion BUG1
 Fin BUG1
-Version 1.2
+Codigo Version 1.2
+codigo Version 2
