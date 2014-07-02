@@ -1,2 +1,3 @@
-Version 0
-Codigo version 0
+Version 1
+Codigo version 0. Modifico parte de la version 0
+Codigo añadido a version 1
